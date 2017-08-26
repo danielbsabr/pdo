@@ -3,11 +3,11 @@
 //Local do banco
 $host = "localhost";
 //Nome do banco de dados
-$db = "livraria";
+$db = "banco";
 //Seu Usuário no banco de dados
 $user = "root";
 //Senha do banco de dados
-$pass = "#armc2014";
+$pass = "#root";
 //Estabelecendo a conexão
 try{
 	/*
